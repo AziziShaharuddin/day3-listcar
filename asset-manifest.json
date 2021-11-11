@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/day3-listcar/static/css/main.20e06ae7.chunk.css",
+    "main.js": "/day3-listcar/static/js/main.6fe4709f.chunk.js",
+    "main.js.map": "/day3-listcar/static/js/main.6fe4709f.chunk.js.map",
+    "runtime-main.js": "/day3-listcar/static/js/runtime-main.12af6db9.js",
+    "runtime-main.js.map": "/day3-listcar/static/js/runtime-main.12af6db9.js.map",
+    "static/js/2.41da9cb5.chunk.js": "/day3-listcar/static/js/2.41da9cb5.chunk.js",
+    "static/js/2.41da9cb5.chunk.js.map": "/day3-listcar/static/js/2.41da9cb5.chunk.js.map",
+    "static/js/3.99942a65.chunk.js": "/day3-listcar/static/js/3.99942a65.chunk.js",
+    "static/js/3.99942a65.chunk.js.map": "/day3-listcar/static/js/3.99942a65.chunk.js.map",
+    "index.html": "/day3-listcar/index.html",
+    "static/css/main.20e06ae7.chunk.css.map": "/day3-listcar/static/css/main.20e06ae7.chunk.css.map",
+    "static/js/2.41da9cb5.chunk.js.LICENSE.txt": "/day3-listcar/static/js/2.41da9cb5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.12af6db9.js",
+    "static/js/2.41da9cb5.chunk.js",
+    "static/css/main.20e06ae7.chunk.css",
+    "static/js/main.6fe4709f.chunk.js"
+  ]
+}
